@@ -14,17 +14,17 @@
     "publisher": "文化庁",
     "url": "https://kunishitei.bunka.go.jp/",
     "terms_url": "https://kunishitei.bunka.go.jp/top/policy",
-    "accessed_date": "2026-09-28",
-    "attribution": "出典：「国指定文化財等データベース」（文化庁）\n（https://kunishitei.bunka.go.jp/）（2026年9月28日に利用）\n上記を加工して作成"
+    "accessed_date": "2026-10-05",
+    "attribution": "出典：「国指定文化財等データベース」（文化庁）\n（https://kunishitei.bunka.go.jp/）（2026年10月5日に利用）\n上記を加工して作成"
   },
   "generator": {
     "name": "heritage-crawler",
     "version": "0.1.0"
   },
   "counts": {
-    "records": 5286,
+    "records": 5299,
     "files": 47,
-    "with_coordinates": 5285
+    "with_coordinates": 5298
   },
   "labels": {
     "ledger_id": "台帳ID",
@@ -67,53 +67,53 @@
     "has_photo": "写真の有無"
   },
   "fields": {
-    "ledger_id": 5286,
-    "managed_id": 5286,
-    "category_code": 5286,
-    "category_name": 5286,
-    "url": 5286,
-    "name": 5286,
-    "name_kana": 5285,
-    "ridge_name": 3592,
-    "ridge_name_kana": 3523,
-    "quantity": 5286,
-    "types": 5286,
-    "period": 5278,
-    "year_text": 5276,
-    "western_year": 5131,
-    "structure": 5283,
+    "ledger_id": 5299,
+    "managed_id": 5299,
+    "category_code": 5299,
+    "category_name": 5299,
+    "url": 5299,
+    "name": 5299,
+    "name_kana": 5298,
+    "ridge_name": 3603,
+    "ridge_name_kana": 3534,
+    "quantity": 5299,
+    "types": 5299,
+    "period": 5291,
+    "year_text": 5289,
+    "western_year": 5144,
+    "structure": 5296,
     "history": 7,
     "notes": 2,
-    "designation_kind": 5286,
-    "designation_number": 5284,
-    "national_treasure_class": 5286,
-    "designated_date": 5273,
+    "designation_kind": 5299,
+    "designation_number": 5297,
+    "national_treasure_class": 5299,
+    "designated_date": 5286,
     "added_date": 30,
-    "criteria": 2081,
-    "prefecture": 5286,
-    "address": 5286,
-    "latitude": 5285,
-    "longitude": 5285,
+    "criteria": 2094,
+    "prefecture": 5299,
+    "address": 5299,
+    "latitude": 5298,
+    "longitude": 5298,
     "storage_facility": 5,
-    "owner": 4493,
-    "owner_type": 1232,
+    "owner": 4505,
+    "owner_type": 1244,
     "custodian": 312,
-    "description": 3714,
+    "description": 3727,
     "detailed_description": 268,
-    "annexes": 1547,
-    "has_attachment": 5286,
-    "has_photo": 5286
+    "annexes": 1549,
+    "has_attachment": 5299,
+    "has_photo": 5299
   },
   "facets": {
     "types": {
       "近世以前／神社": 1213,
       "近世以前／寺院": 1143,
       "近世以前／民家": 916,
-      "近代／住居": 543,
-      "近代／産業・交通・土木": 383,
+      "近代／住居": 554,
+      "近代／産業・交通・土木": 384,
       "近世以前／その他": 272,
       "近世以前／城郭": 218,
-      "近代／宗教": 159,
+      "近代／宗教": 160,
       "近世以前／住宅": 142,
       "近代／学校": 84,
       "近代／文化施設": 81,
@@ -122,15 +122,15 @@
       "近代／その他": 22
     },
     "period": {
-      "明治": 910,
+      "明治": 916,
       "江戸中期": 682,
       "江戸前期": 676,
       "江戸後期": 541,
       "江戸末期": 482,
       "桃山": 425,
       "室町後期": 355,
-      "大正": 326,
-      "昭和": 274,
+      "大正": 328,
+      "昭和": 279,
       "鎌倉後期": 191,
       "室町中期": 166,
       "室町前期": 164,
@@ -142,16 +142,16 @@
     },
     "prefecture": {
       "京都府": 682,
-      "奈良県": 364,
+      "奈良県": 368,
       "兵庫県": 260,
       "滋賀県": 256,
       "大阪府": 203,
       "東京都": 196,
       "和歌山県": 183,
       "愛知県": 174,
+      "岡山県": 161,
       "栃木県": 159,
-      "長野県": 157,
-      "岡山県": 154,
+      "長野県": 158,
       "愛媛県": 123,
       "石川県": 116,
       "山梨県": 114,
@@ -176,7 +176,7 @@
       "高知県": 60,
       "鳥取県": 58,
       "三重県": 57,
-      "埼玉県": 56,
+      "埼玉県": 57,
       "茨城県": 55,
       "大分県": 54,
       "長崎県": 53,
@@ -192,24 +192,24 @@
     "criteria": {
       "(三）歴史的価値の高いもの": 1003,
       "(五）流派的又は地方的特色において顕著なもの": 836,
-      "(一）意匠的に優秀なもの": 765,
+      "(一）意匠的に優秀なもの": 778,
       "(二）技術的に優秀なもの": 202,
       "(四）学術的価値の高いもの": 58
     },
     "owner_type": {
-      "法人": 325,
+      "法人": 336,
       "市区町村": 291,
       "寺院": 283,
-      "神社": 197,
+      "神社": 198,
       "国": 97,
       "都道府県": 27,
       "その他": 12
     },
     "designation_kind": {
-      "指定": 5286
+      "指定": 5299
     },
     "national_treasure_class": {
-      "重要文化財": 5286
+      "重要文化財": 5299
     }
   },
   "files": [
@@ -277,7 +277,7 @@
       "path": "data/11_saitama.jsonl",
       "area_code": "11",
       "area_name": "埼玉県",
-      "records": 56
+      "records": 57
     },
     {
       "path": "data/12_chiba.jsonl",
@@ -331,7 +331,7 @@
       "path": "data/20_nagano.jsonl",
       "area_code": "20",
       "area_name": "長野県",
-      "records": 157
+      "records": 158
     },
     {
       "path": "data/21_gifu.jsonl",
@@ -385,7 +385,7 @@
       "path": "data/29_nara.jsonl",
       "area_code": "29",
       "area_name": "奈良県",
-      "records": 364
+      "records": 368
     },
     {
       "path": "data/30_wakayama.jsonl",
@@ -409,7 +409,7 @@
       "path": "data/33_okayama.jsonl",
       "area_code": "33",
       "area_name": "岡山県",
-      "records": 154
+      "records": 161
     },
     {
       "path": "data/34_hiroshima.jsonl",
