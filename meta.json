@@ -14,8 +14,8 @@
     "publisher": "文化庁",
     "url": "https://kunishitei.bunka.go.jp/",
     "terms_url": "https://kunishitei.bunka.go.jp/top/policy",
-    "accessed_date": "2026-10-19",
-    "attribution": "出典：「国指定文化財等データベース」（文化庁）\n（https://kunishitei.bunka.go.jp/）（2026年10月19日に利用）\n上記を加工して作成"
+    "accessed_date": "2026-10-26",
+    "attribution": "出典：「国指定文化財等データベース」（文化庁）\n（https://kunishitei.bunka.go.jp/）（2026年10月26日に利用）\n上記を加工して作成"
   },
   "generator": {
     "name": "heritage-crawler",
@@ -80,7 +80,7 @@
     "types": 5299,
     "period": 5291,
     "year_text": 5289,
-    "western_year": 5144,
+    "western_year": 5143,
     "structure": 5296,
     "history": 7,
     "notes": 2,
@@ -88,7 +88,7 @@
     "designation_number": 5297,
     "national_treasure_class": 5299,
     "designated_date": 5286,
-    "added_date": 30,
+    "added_date": 31,
     "criteria": 2094,
     "prefecture": 5299,
     "address": 5299,
@@ -96,7 +96,7 @@
     "longitude": 5298,
     "storage_facility": 5,
     "owner": 4505,
-    "owner_type": 1244,
+    "owner_type": 1245,
     "custodian": 312,
     "description": 3727,
     "detailed_description": 268,
@@ -124,7 +124,7 @@
     "period": {
       "明治": 916,
       "江戸中期": 682,
-      "江戸前期": 676,
+      "江戸前期": 677,
       "江戸後期": 541,
       "江戸末期": 482,
       "桃山": 425,
@@ -136,8 +136,8 @@
       "室町前期": 164,
       "鎌倉前期": 56,
       "平安後期": 22,
-      "平安前期": 4,
       "奈良": 3,
+      "平安前期": 3,
       "平安中期": 1
     },
     "prefecture": {
@@ -198,7 +198,7 @@
     },
     "owner_type": {
       "法人": 336,
-      "市区町村": 291,
+      "市区町村": 292,
       "寺院": 283,
       "神社": 198,
       "国": 97,
