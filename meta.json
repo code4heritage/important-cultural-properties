@@ -14,17 +14,17 @@
     "publisher": "文化庁",
     "url": "https://kunishitei.bunka.go.jp/",
     "terms_url": "https://kunishitei.bunka.go.jp/top/policy",
-    "accessed_date": "2026-11-09",
-    "attribution": "出典：「国指定文化財等データベース」（文化庁）\n（https://kunishitei.bunka.go.jp/）（2026年11月9日に利用）\n上記を加工して作成"
+    "accessed_date": "2026-11-16",
+    "attribution": "出典：「国指定文化財等データベース」（文化庁）\n（https://kunishitei.bunka.go.jp/）（2026年11月16日に利用）\n上記を加工して作成"
   },
   "generator": {
     "name": "heritage-crawler",
     "version": "0.1.0"
   },
   "counts": {
-    "records": 5299,
+    "records": 5298,
     "files": 47,
-    "with_coordinates": 5298
+    "with_coordinates": 5297
   },
   "labels": {
     "ledger_id": "台帳ID",
@@ -67,48 +67,48 @@
     "has_photo": "写真の有無"
   },
   "fields": {
-    "ledger_id": 5299,
-    "managed_id": 5299,
-    "category_code": 5299,
-    "category_name": 5299,
-    "url": 5299,
-    "name": 5299,
-    "name_kana": 5298,
+    "ledger_id": 5298,
+    "managed_id": 5298,
+    "category_code": 5298,
+    "category_name": 5298,
+    "url": 5298,
+    "name": 5298,
+    "name_kana": 5297,
     "ridge_name": 3603,
     "ridge_name_kana": 3534,
-    "quantity": 5299,
-    "types": 5299,
-    "period": 5291,
-    "year_text": 5289,
-    "western_year": 5143,
-    "structure": 5296,
+    "quantity": 5298,
+    "types": 5298,
+    "period": 5290,
+    "year_text": 5288,
+    "western_year": 5142,
+    "structure": 5295,
     "history": 7,
     "notes": 2,
-    "designation_kind": 5299,
-    "designation_number": 5297,
-    "national_treasure_class": 5299,
-    "designated_date": 5286,
+    "designation_kind": 5298,
+    "designation_number": 5296,
+    "national_treasure_class": 5298,
+    "designated_date": 5285,
     "added_date": 31,
     "criteria": 2094,
-    "prefecture": 5299,
-    "address": 5299,
-    "latitude": 5298,
-    "longitude": 5298,
+    "prefecture": 5298,
+    "address": 5298,
+    "latitude": 5297,
+    "longitude": 5297,
     "storage_facility": 5,
-    "owner": 4505,
-    "owner_type": 1245,
-    "custodian": 314,
-    "description": 3727,
+    "owner": 4504,
+    "owner_type": 1246,
+    "custodian": 315,
+    "description": 3726,
     "detailed_description": 268,
     "annexes": 1549,
-    "has_attachment": 5299,
-    "has_photo": 5299
+    "has_attachment": 5298,
+    "has_photo": 5298
   },
   "facets": {
     "types": {
       "近世以前／神社": 1213,
       "近世以前／寺院": 1143,
-      "近世以前／民家": 916,
+      "近世以前／民家": 915,
       "近代／住居": 554,
       "近代／産業・交通・土木": 384,
       "近世以前／その他": 272,
@@ -128,7 +128,7 @@
       "江戸後期": 541,
       "江戸末期": 482,
       "桃山": 425,
-      "室町後期": 355,
+      "室町後期": 354,
       "大正": 328,
       "昭和": 279,
       "鎌倉後期": 191,
@@ -143,7 +143,7 @@
     "prefecture": {
       "京都府": 682,
       "奈良県": 368,
-      "兵庫県": 260,
+      "兵庫県": 259,
       "滋賀県": 256,
       "大阪府": 203,
       "東京都": 196,
@@ -198,7 +198,7 @@
     },
     "owner_type": {
       "法人": 336,
-      "市区町村": 292,
+      "市区町村": 293,
       "寺院": 283,
       "神社": 198,
       "国": 97,
@@ -206,10 +206,10 @@
       "その他": 12
     },
     "designation_kind": {
-      "指定": 5299
+      "指定": 5298
     },
     "national_treasure_class": {
-      "重要文化財": 5299
+      "重要文化財": 5298
     }
   },
   "files": [
@@ -379,7 +379,7 @@
       "path": "data/28_hyogo.jsonl",
       "area_code": "28",
       "area_name": "兵庫県",
-      "records": 260
+      "records": 259
     },
     {
       "path": "data/29_nara.jsonl",
